@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+.settings
+myvenv
+.DS_Store
+.pydevproject
+.project
